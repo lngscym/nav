@@ -129,13 +129,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
           "id": "nodeseek",
           "name": "NodeSeek",
           "url": "https://www.nodeseek.com",
@@ -148,13 +141,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
-        },
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
         }
       ]
     },
